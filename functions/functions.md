@@ -1,3 +1,5 @@
+# Functions
+
 ## plotting a point
 
 Plotting point
